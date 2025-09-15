@@ -2,7 +2,8 @@
 
 ## Descrição
 
-Este projeto é um sistema básico de CRUD (Create, Read, Update, Delete) para gerenciamento de livros em uma livraria, desenvolvido em Java. Utiliza o Firebase Realtime Database como backend para armazenamento dos dados.
+
+Este projeto foi produzido para as aulas de Java. É um sistema básico de CRUD (Create, Read, Update, Delete) para gerenciamento de livros em uma livraria. Utiliza o Firebase Realtime Database como backend para armazenamento dos dados.
 
 ## Tecnologias Utilizadas
 
